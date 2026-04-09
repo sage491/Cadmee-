@@ -25,6 +25,7 @@ Cadmee+ was built to address this by:
 Treating prediction as a decision-support problem, not just regression
 Applying constraint-based model simplification
 Prioritizing interpretability and deployability over complexity
+
 📂 Dataset
 
 Experiments are conducted on the C-MAPSS dataset, which simulates turbofan engine degradation under multiple operating conditions.
