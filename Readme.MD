@@ -37,6 +37,7 @@ Operating conditions
 Fault modes
 Multivariate time-series sensor data
 Ground truth: Remaining Useful Life (RUL)
+
 ⚙️ Experimental Framework
 
 Cadmee+ follows a structured pipeline:
@@ -78,6 +79,7 @@ Interpretability
 RMSE (Root Mean Squared Error)
 Score function (NASA scoring metric for RUL)
 Model robustness across FD datasets
+
 🧠 Key Insights
 
 From multiple experimental iterations:
@@ -88,6 +90,7 @@ Simpler models often outperform deep models when:
 Proper preprocessing is applied
 Noise is controlled
 Operating conditions must be explicitly handled
+
 🏗️ Project Structure
 cadmee-plus/
 │
@@ -116,6 +119,7 @@ cadmee-plus/
 └── README.md
                 
 🚀 How to Run
+
 # Clone repo
 git clone https://github.com/yourusername/cadmee-plus.git
 
@@ -124,7 +128,9 @@ pip install -r requirements.txt
 
 # Run experiment
 python experiments/exp_v2_feature_refinement/run.py
+
 📊 Results Summary
+
 Model	RMSE	Notes
 Linear Regression	High	Weak baseline
 Random Forest	Medium	Good stability
@@ -147,11 +153,13 @@ This aligns with broader goals of:
 Human-in-the-loop systems
 Interpretable AI
 Engineering reliability frameworks
+
 🔗 Future Work
 Integration with real-time maintenance systems
 Hybrid physics + data-driven models
 Extension to other industrial datasets
 Decision-support layer (beyond prediction)
+
 👤 Author
 
 Harshit Kumar
