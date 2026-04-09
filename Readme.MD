@@ -166,6 +166,7 @@ Harshit Kumar
 
 Engineering Student, Chandigarh University
 Focus: AI Systems, Decision Frameworks, Applied Intelligence
+
 ⚠️ Final Note
 
 Cadmee+ intentionally avoids unnecessary complexity.
